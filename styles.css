@@ -1,0 +1,8 @@
+.que.type_calc_sheet .answer {
+    padding: 0.3em;
+    width: auto;
+    display: inline;
+}
+.que.type_calc_sheet .answer input {
+    width: 80%;
+}
